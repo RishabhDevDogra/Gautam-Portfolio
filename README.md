@@ -1,4 +1,4 @@
-# Rishabh Dev Dogra – Portfolio
+# Gautam Vashishth – Portfolio
 
 A minimal, portfolio showcasing backend and platform engineering work. Built for GitHub Pages.
 
@@ -14,10 +14,6 @@ A minimal, portfolio showcasing backend and platform engineering work. Built for
    git push -u origin main
    ```
 
-2. **Enable GitHub Pages:**
-   - Go to your repo → **Settings** → **Pages**
-   - Select `main` branch as source
-   - Your site will be live at `https://YOUR_USERNAME.github.io/Portfolio/`
 
 ## Update Links
 
@@ -27,17 +23,3 @@ Before deploying, customize these in `index.html`:
 - LinkedIn URL in Contact section
 - Email address in Contact section
 
-## What's Inside
-
-- **Hero** — Headline, metrics (API throughput, data scale, reliability)
-- **Skills** — Core & comfortable tech stacks
-- **Work** — 4 featured projects with impact bullets
-- **Experience** — Key achievements & approach
-- **Contact** — Direct links to GitHub, LinkedIn, email, resume
-
-## Design Notes
-
-- clean typography, glass effects, subtle animations
-- Dark mode support (toggle in bottom-right)
-- Optimized for mobile & recruiter viewing
-- No external dependencies except Tailwind CDN 
